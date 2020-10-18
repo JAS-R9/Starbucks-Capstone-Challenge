@@ -7,7 +7,7 @@ Starbucks Capstone Challenge
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+
 
 ## Installation <a name="installation"></a>
 
@@ -41,4 +41,4 @@ The data folder conatins the data used in the notebook
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@jawad989/udacity-starbucks-capstone-project-bb57e41b0b22).
